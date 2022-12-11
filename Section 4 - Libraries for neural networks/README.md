@@ -13,3 +13,7 @@ As we have a classification problem with 3 classes (setosa, virginica and versic
 Also, you need to encode classes. For example: class 0 will be 1 0 0, class 1 will be 0 1 0, and finally, class 2 will be 0 0 1
 
 The final output of the neural network will be an array with 3 values and you need to extract the highest probability
+
+# Homework instruction: wine classification
+
+The goal is to build a neural network in sklearn to classify types of wines! 
