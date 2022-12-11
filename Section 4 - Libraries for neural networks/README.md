@@ -16,4 +16,22 @@ The final output of the neural network will be an array with 3 values and you ne
 
 # Homework instruction: wine classification
 
-The goal is to build a neural network in sklearn to classify types of wines! 
+The goal is to build a neural network in sklearn to classify types of wines
+
+# Homework instruction: fashion mnist classification
+
+The goal is to build a neural network in TensorFlow to classify types of clothes
+
+# Homework instruction: diabetes classification
+
+Use the diabetes.csv attached to this class in order to classify whether or not a person has diabetes. You can see here more information about the dataset
+
+Hints:
+
+Upload the .csv file into the Google Colab environment
+
+Use the pandas library in order to load the csv file - check the read_csv function
+
+It's a binary classification problem, class 0 (no disease) and class 1 (disease)
+
+You need to normalize the data, check the MinMaxScaler from sklearn
